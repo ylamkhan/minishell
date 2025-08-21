@@ -1,6 +1,6 @@
 # 🐚 Minishell
 
-**Minishell** is a simple shell implementation developed as part of the **42 School curriculum**.  
+**Minishell** is a simple shell implementation developed as part of the **1337 School curriculum**.  
 It reproduces the behavior of a UNIX shell like **bash** while teaching fundamental concepts of processes, file descriptors, parsing, and signals.  
 
 ---
